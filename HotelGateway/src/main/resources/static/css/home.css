@@ -1,0 +1,118 @@
+body{
+	background-color: #faf9f7;
+	font-weight: 300;
+	height: 100vh;
+	box-sizing: border-box;
+}
+
+.header{
+	padding: 0 20px; 
+	margin: 0 30px;
+	color: #7f7e67;
+}
+.btn{
+	width: 100px;
+	text-align: center;
+	font-weight: 500;
+	border-radius: 0;
+	padding: 4px 10px; 
+	background-color: #73706b;
+	color: white;
+}
+
+.btn:hover{
+	color: #bed3ff;
+	background-color: #7F776b;
+	font-weight: 300;
+}
+
+.hotel-name:hover{
+	text-decoration: underline;
+	cursor: pointer;
+	
+}
+.faq-tag{
+	color: blue;
+	cursor: pointer;
+	text-decoration: underline;
+}
+.review-text{
+	text-decoration: underline;
+	cursor: pointer;
+}
+
+.average-ratings{
+	display: inline-block;
+	text-align: center;
+	line-height: 35px;
+	font-size: 1.45rem;
+	color: #f1f8ba;
+	font-weight: 500;
+	margin: 0 12px;
+	background-color: #4a4b4c; 
+	width: 100px;
+	height: 35px;
+
+}
+
+.search-option{
+	background-color: #8aadd3;
+	color: #fcf8e5;
+	display: flex;
+	align-items: end;
+	justify-content: center;
+	margin: 0 30px;
+	
+}
+.filter{
+	background-color: #ebf0f3;
+}
+
+.results{
+	box-sizing: border-box;
+}
+
+.ratings-td{
+	background-color: #f2f5f7;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	color: grey;
+	font-size: .85rem;
+	box-sizing: border-box;	
+}
+
+.profile-img{
+	border-radius: 50%;
+}
+
+.ratings-container{
+	background-color: #e9f2f3;
+	overflow: auto;
+	color: green;
+	margin: 12px;
+	padding: 10px;
+	border: 1px solid black;
+}
+
+.options{
+	flex-wrap: wrap;
+	padding-left: 50px; 
+	align-items: end;
+}
+
+.searchBtn{
+	background-color: #73706b;
+	width: 100%;
+	color: white;
+	padding: 5px 0;
+}
+
+.footer{
+	background-color: #73706b;
+	height: 200px;
+	width: 100%;
+	margin-top: 50px;
+	color: white;
+	padding-right: 40px;
+}

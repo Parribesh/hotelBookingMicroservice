@@ -1,0 +1,58 @@
+2023-03-02 19:19:00,472 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2023-03-02 19:19:36,579 [Worker-1: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.booking:BookingMicroserice:0.0.1-SNAPSHOT @ /Users/paribeshneupane/Desktop/Dev/SynergisticIt/Projects/HotelBooking/BookingMicroserice/pom.xml.
+2023-03-02 19:19:37,077 [Worker-1: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /BookingMicroserice/src/main/java
+2023-03-02 19:19:37,078 [Worker-1: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /BookingMicroserice/src/main/resources
+2023-03-02 19:19:37,078 [Worker-1: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /BookingMicroserice/src/main/resources
+2023-03-02 19:19:37,078 [Worker-1: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /BookingMicroserice/src/test/java
+2023-03-02 19:19:37,176 [Worker-1: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 2 sec
+2023-03-02 19:20:01,895 [Worker-13: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:HotelMicroservice:0.0.1-SNAPSHOT @ /Users/paribeshneupane/Desktop/Dev/SynergisticIt/Projects/HotelBooking/HotelGateway/pom.xml.
+2023-03-02 19:20:02,021 [Worker-13: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /HotelGateway/src/main/java
+2023-03-02 19:20:02,022 [Worker-13: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /HotelGateway/src/main/resources
+2023-03-02 19:20:02,022 [Worker-13: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /HotelGateway/src/main/resources
+2023-03-02 19:20:02,022 [Worker-13: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /HotelGateway/src/test/java
+2023-03-02 19:20:02,072 [Worker-13: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 0 sec
+2023-03-02 19:20:22,832 [Worker-1: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:Hotel:0.0.1-SNAPSHOT @ /Users/paribeshneupane/Desktop/Dev/SynergisticIt/Projects/HotelBooking/HotelMicroservice/pom.xml.
+2023-03-02 19:20:22,922 [Worker-1: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /HotelMicroservice/src/main/java
+2023-03-02 19:20:22,924 [Worker-1: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /HotelMicroservice/src/main/resources
+2023-03-02 19:20:22,924 [Worker-1: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /HotelMicroservice/src/main/resources
+2023-03-02 19:20:22,924 [Worker-1: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /HotelMicroservice/src/test/java
+2023-03-02 19:20:22,975 [Worker-1: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 0 sec
+2023-03-02 19:21:12,089 [Worker-5: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-03-02 19:21:12,218 [Worker-5: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.booking:BookingMicroserice:0.0.1-SNAPSHOT @ /Users/paribeshneupane/Desktop/Dev/SynergisticIt/Projects/HotelBooking/BookingMicroserice/pom.xml.
+2023-03-02 19:21:12,308 [Worker-5: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:HotelMicroservice:0.0.1-SNAPSHOT @ /Users/paribeshneupane/Desktop/Dev/SynergisticIt/Projects/HotelBooking/HotelGateway/pom.xml.
+2023-03-02 19:21:12,427 [Worker-5: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /BookingMicroserice/src/main/java
+2023-03-02 19:21:12,427 [Worker-5: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /BookingMicroserice/src/main/resources
+2023-03-02 19:21:12,428 [Worker-5: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /BookingMicroserice/src/main/resources
+2023-03-02 19:21:12,428 [Worker-5: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /BookingMicroserice/src/test/java
+2023-03-02 19:21:12,491 [Worker-5: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /HotelGateway/src/main/java
+2023-03-02 19:21:12,492 [Worker-5: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /HotelGateway/src/main/resources
+2023-03-02 19:21:12,492 [Worker-5: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /HotelGateway/src/main/resources
+2023-03-02 19:21:12,492 [Worker-5: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /HotelGateway/src/test/java
+2023-03-02 19:21:12,606 [Worker-5: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 2 poms: local refresh takes 0.00 sec, refresh facades takes 0.00 sec, update config takes 0.00 sec 
+2023-03-02 19:21:33,225 [Worker-10: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-03-02 19:21:33,373 [Worker-10: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.booking:BookingMicroserice:0.0.1-SNAPSHOT @ /Users/paribeshneupane/Desktop/Dev/SynergisticIt/Projects/HotelBooking/BookingMicroserice/pom.xml.
+2023-03-02 19:21:33,450 [Worker-10: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:HotelMicroservice:0.0.1-SNAPSHOT @ /Users/paribeshneupane/Desktop/Dev/SynergisticIt/Projects/HotelBooking/HotelGateway/pom.xml.
+2023-03-02 19:21:33,481 [Worker-10: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:Hotel:0.0.1-SNAPSHOT @ /Users/paribeshneupane/Desktop/Dev/SynergisticIt/Projects/HotelBooking/HotelMicroservice/pom.xml.
+2023-03-02 19:21:33,626 [Worker-10: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /BookingMicroserice/src/main/java
+2023-03-02 19:21:33,626 [Worker-10: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /BookingMicroserice/src/main/resources
+2023-03-02 19:21:33,626 [Worker-10: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /BookingMicroserice/src/main/resources
+2023-03-02 19:21:33,626 [Worker-10: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /BookingMicroserice/src/test/java
+2023-03-02 19:21:33,685 [Worker-10: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /HotelGateway/src/main/java
+2023-03-02 19:21:33,685 [Worker-10: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /HotelGateway/src/main/resources
+2023-03-02 19:21:33,685 [Worker-10: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /HotelGateway/src/main/resources
+2023-03-02 19:21:33,685 [Worker-10: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /HotelGateway/src/test/java
+2023-03-02 19:21:33,730 [Worker-10: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /HotelMicroservice/src/main/java
+2023-03-02 19:21:33,730 [Worker-10: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /HotelMicroservice/src/main/resources
+2023-03-02 19:21:33,730 [Worker-10: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /HotelMicroservice/src/main/resources
+2023-03-02 19:21:33,731 [Worker-10: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /HotelMicroservice/src/test/java
+2023-03-02 19:21:33,813 [Worker-10: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 3 poms: local refresh takes 0.00 sec, refresh facades takes 0.00 sec, update config takes 0.00 sec 
+2023-03-03 09:31:08,051 [Worker-19: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.booking:BookingMicroserice:0.0.1-SNAPSHOT @ /Users/paribeshneupane/Desktop/Dev/SynergisticIt/Projects/HotelBooking/BookingMicroserice/pom.xml.
+2023-03-03 09:31:08,274 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-03 09:31:08,274 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-03 09:31:08,275 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/paribeshneupane/Desktop/Dev/SynergisticIt/Projects/HotelBooking/BookingMicroserice/src/test/resources
+2023-03-03 09:31:09,313 [Worker-23: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/javax/xml/bind/jaxb-api/2.3.0/jaxb-api-2.3.0-sources.jar
+2023-03-03 09:31:09,373 [Worker-23: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/javax/xml/bind/jaxb-api/2.3.0/jaxb-api-2.3.0-sources.jar
+2023-03-03 09:31:09,374 [Worker-23: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for javax.xml.bind:jaxb-api:2.3.0
+2023-03-03 09:31:09,642 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-03 09:31:09,682 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-03 09:31:09,685 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/paribeshneupane/Desktop/Dev/SynergisticIt/Projects/HotelBooking/BookingMicroserice/src/test/resources
